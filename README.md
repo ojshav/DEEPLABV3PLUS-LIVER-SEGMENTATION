@@ -4,7 +4,7 @@ This repository contains code for liver tumor segmentation using deep learning t
 
 ## Overview
 
-The main file in this repository is `Deeplabv3plus.ipnb`, which contains the entire implementation of the liver tumor segmentation model. This file includes the dataset loading, model definition, training loop, evaluation, and inference functions.
+The main file in this repository is `deeplabv3plus.ipynb`, which contains the entire implementation of the liver tumor segmentation model. This file includes the dataset loading, model definition, training loop, evaluation, and inference functions.
 
 ## Code Explanation
 
